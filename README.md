@@ -2,6 +2,7 @@ Elements Project blockchain platform
 ====================================
 
 [![Build Status](https://travis-ci.org/ElementsProject/elements.svg?branch=master)](https://travis-ci.org/ElementsProject/elements)
+[Dockerfile](https://hub.docker.com/r/xplorfin/elements)
 
 https://elementsproject.org
 
